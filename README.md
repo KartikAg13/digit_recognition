@@ -81,8 +81,8 @@ The trained model is saved in HDF5 format (`mnist_cnn_model.h5`) for future use.
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
-   cd <repo-folder>
+   git clone https://github.com/KartikAg13/digit_recognition.git
+   cd digit_recognition
    ```
 
 2. Open the Jupyter Notebook `main.ipynb`:
